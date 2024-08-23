@@ -1,0 +1,68 @@
+C:\Users\bimya\source\repos\boarding  management system\boarding  management system\bin\Debug\boarding  management system.exe.config
+C:\Users\bimya\source\repos\boarding  management system\boarding  management system\bin\Debug\boarding  management system.exe
+C:\Users\bimya\source\repos\boarding  management system\boarding  management system\bin\Debug\boarding  management system.pdb
+C:\Users\bimya\source\repos\boarding  management system\boarding  management system\obj\Debug\boarding  management system.csproj.AssemblyReference.cache
+C:\Users\bimya\source\repos\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.Form2.resources
+C:\Users\bimya\source\repos\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.menu.resources
+C:\Users\bimya\source\repos\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.Properties.Resources.resources
+C:\Users\bimya\source\repos\boarding  management system\boarding  management system\obj\Debug\boarding  management system.csproj.GenerateResource.cache
+C:\Users\bimya\source\repos\boarding  management system\boarding  management system\obj\Debug\boarding  management system.csproj.CoreCompileInputs.cache
+C:\Users\bimya\source\repos\boarding  management system\boarding  management system\obj\Debug\boarding  management system.exe
+C:\Users\bimya\source\repos\boarding  management system\boarding  management system\obj\Debug\boarding  management system.pdb
+C:\Users\bimya\source\repos\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.login_bdo.resources
+C:\Users\bimya\source\repos\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.logins.resources
+C:\Users\bimya\source\repos\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.signin_stu.resources
+C:\Users\bimya\source\repos\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.signinbdo.resources
+C:\Users\bimya\source\repos\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.boysdashboard.resources
+C:\Users\bimya\source\repos\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.girlsdashboard.resources
+C:\Users\bimya\source\repos\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.Mainform2.resources
+C:\Users\bimya\source\repos\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.Mainfrm.resources
+C:\Users\bimya\source\repos\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.details_g1.resources
+C:\Users\bimya\source\repos\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.newone.resources
+C:\Users\bimya\source\repos\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.far_from.resources
+C:\Users\bimya\source\repos\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.prices.resources
+C:\Users\bimya\source\repos\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.booking.resources
+C:\Users\bimya\source\repos\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.Price_range.resources
+C:\Users\bimya\source\repos\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.Bokking_boys.resources
+C:\Users\bimya\source\repos\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.farfrom_boys.resources
+C:\Users\bimya\source\repos\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.Highfacilities_girls.resources
+C:\Users\bimya\source\repos\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.newone_boys.resources
+C:\Users\bimya\source\repos\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.priceboys.resources
+C:\Users\bimya\source\repos\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.Price_range_boys.resources
+C:\Users\bimya\source\repos\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.Highfacilities_boys.resources
+C:\Users\bimya\source\repos\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.boarding_owner_choice.resources
+C:\Users\bimya\source\repos\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.Mainform3.resources
+D:\boarding  management system\boarding  management system\bin\Debug\boarding  management system.exe.config
+D:\boarding  management system\boarding  management system\bin\Debug\boarding  management system.exe
+D:\boarding  management system\boarding  management system\bin\Debug\boarding  management system.pdb
+D:\boarding  management system\boarding  management system\obj\Debug\boarding  management system.csproj.AssemblyReference.cache
+D:\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.boarding_owner_choice.resources
+D:\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.Bokking_boys.resources
+D:\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.booking.resources
+D:\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.boysdashboard.resources
+D:\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.details_g1.resources
+D:\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.farfrom_boys.resources
+D:\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.far_from.resources
+D:\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.Form2.resources
+D:\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.girlsdashboard.resources
+D:\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.Highfacilities_boys.resources
+D:\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.Highfacilities_girls.resources
+D:\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.logins.resources
+D:\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.login_bdo.resources
+D:\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.Mainform2.resources
+D:\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.Mainform3.resources
+D:\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.Mainfrm.resources
+D:\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.menu.resources
+D:\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.newone.resources
+D:\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.newone_boys.resources
+D:\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.Price_range.resources
+D:\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.priceboys.resources
+D:\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.prices.resources
+D:\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.Price_range_boys.resources
+D:\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.Properties.Resources.resources
+D:\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.signinbdo.resources
+D:\boarding  management system\boarding  management system\obj\Debug\boarding__management_system.signin_stu.resources
+D:\boarding  management system\boarding  management system\obj\Debug\boarding  management system.csproj.GenerateResource.cache
+D:\boarding  management system\boarding  management system\obj\Debug\boarding  management system.csproj.CoreCompileInputs.cache
+D:\boarding  management system\boarding  management system\obj\Debug\boarding  management system.exe
+D:\boarding  management system\boarding  management system\obj\Debug\boarding  management system.pdb

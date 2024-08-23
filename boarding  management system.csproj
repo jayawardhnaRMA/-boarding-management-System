@@ -1,0 +1,371 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B1525ECC-AD7A-464A-A2DD-F0772860676D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>boarding__management_system</RootNamespace>
+    <AssemblyName>boarding  management system</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="boarding_owner_choice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="boarding_owner_choice.Designer.cs">
+      <DependentUpon>boarding_owner_choice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="boarding__management_system\Properties\Resources.cs" />
+    <Compile Include="Bokking_boys.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bokking_boys.Designer.cs">
+      <DependentUpon>Bokking_boys.cs</DependentUpon>
+    </Compile>
+    <Compile Include="booking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="booking.Designer.cs">
+      <DependentUpon>booking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="boysdashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="boysdashboard.Designer.cs">
+      <DependentUpon>boysdashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="details_g1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="details_g1.Designer.cs">
+      <DependentUpon>details_g1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="farfrom_boys.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="farfrom_boys.Designer.cs">
+      <DependentUpon>farfrom_boys.cs</DependentUpon>
+    </Compile>
+    <Compile Include="far_from.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="far_from.Designer.cs">
+      <DependentUpon>far_from.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Function.cs" />
+    <Compile Include="Function2.cs" />
+    <Compile Include="girlsdashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="girlsdashboard.Designer.cs">
+      <DependentUpon>girlsdashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Highfacilities_boys.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Highfacilities_boys.Designer.cs">
+      <DependentUpon>Highfacilities_boys.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Highfacilities_girls.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Highfacilities_girls.Designer.cs">
+      <DependentUpon>Highfacilities_girls.cs</DependentUpon>
+    </Compile>
+    <Compile Include="logins.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="logins.Designer.cs">
+      <DependentUpon>logins.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login_bdo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login_bdo.Designer.cs">
+      <DependentUpon>login_bdo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mainform2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mainform2.Designer.cs">
+      <DependentUpon>Mainform2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mainform3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mainform3.Designer.cs">
+      <DependentUpon>Mainform3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mainfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mainfrm.Designer.cs">
+      <DependentUpon>Mainfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menu.Designer.cs">
+      <DependentUpon>menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="newone.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="newone.Designer.cs">
+      <DependentUpon>newone.cs</DependentUpon>
+    </Compile>
+    <Compile Include="newone_boys.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="newone_boys.Designer.cs">
+      <DependentUpon>newone_boys.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Price range.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Price range.Designer.cs">
+      <DependentUpon>Price range.cs</DependentUpon>
+    </Compile>
+    <Compile Include="priceboys.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="priceboys.Designer.cs">
+      <DependentUpon>priceboys.cs</DependentUpon>
+    </Compile>
+    <Compile Include="prices.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="prices.Designer.cs">
+      <DependentUpon>prices.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Price_range_boys.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Price_range_boys.Designer.cs">
+      <DependentUpon>Price_range_boys.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="signinbdo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="signinbdo.Designer.cs">
+      <DependentUpon>signinbdo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="signin_stu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="signin_stu.Designer.cs">
+      <DependentUpon>signin_stu.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="boarding_owner_choice.resx">
+      <DependentUpon>boarding_owner_choice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bokking_boys.resx">
+      <DependentUpon>Bokking_boys.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="booking.resx">
+      <DependentUpon>booking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="boysdashboard.resx">
+      <DependentUpon>boysdashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="details_g1.resx">
+      <DependentUpon>details_g1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="farfrom_boys.resx">
+      <DependentUpon>farfrom_boys.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="far_from.resx">
+      <DependentUpon>far_from.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="girlsdashboard.resx">
+      <DependentUpon>girlsdashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Highfacilities_boys.resx">
+      <DependentUpon>Highfacilities_boys.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Highfacilities_girls.resx">
+      <DependentUpon>Highfacilities_girls.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="logins.resx">
+      <DependentUpon>logins.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login_bdo.resx">
+      <DependentUpon>login_bdo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mainform2.resx">
+      <DependentUpon>Mainform2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mainform3.resx">
+      <DependentUpon>Mainform3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mainfrm.resx">
+      <DependentUpon>Mainfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menu.resx">
+      <DependentUpon>menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newone.resx">
+      <DependentUpon>newone.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newone_boys.resx">
+      <DependentUpon>newone_boys.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Price range.resx">
+      <DependentUpon>Price range.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="priceboys.resx">
+      <DependentUpon>priceboys.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="prices.resx">
+      <DependentUpon>prices.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Price_range_boys.resx">
+      <DependentUpon>Price_range_boys.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="signinbdo.resx">
+      <DependentUpon>signinbdo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="signin_stu.resx">
+      <DependentUpon>signin_stu.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hostel-2663825-2209481.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hostel-belgrade-eye-03.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AND00968-scaled.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pTi68_7Y_400x400.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\depositphotos_85848932-stock-illustration-vector-modern-hostel-logo-icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-computer-icons-price-tag-icon-design-download-clip-cost-5b2effa0aecf67.644173711529806752716.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\note.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\corner-hostel.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-1268716253-612x612.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-computer-icons-price-tag-icon-design-download-clip-cost-5b2effa0aecf67.6441737115298067527161.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5087607.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\50876071.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue-user-icon-of-profile-and-account-vector-42404464.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-clipart-kailua-lake-garda-hotel-icon-pineapple-park-hostel-kona-payment-blue-beach.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\download %281%29.png" />
+    <None Include="Resources\png-clipart-kailua-lake-garda-hotel-icon-pineapple-park-hostel-kona-payment-blue-beach2.png" />
+    <None Include="Resources\png-clipart-kailua-lake-garda-hotel-icon-pineapple-park-hostel-kona-payment-blue-beach1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
